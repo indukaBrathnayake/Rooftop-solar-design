@@ -58,6 +58,9 @@ The report records my role as **Project Engineer and Design Engineer**, with a 1
 
 ## From the hostel study to Solar Pulse
 
+![My home hybrid solar installation](assets/home-installation.png)
+![](assets/home-inverter-battery.png)
+
 This assignment encouraged me to apply the same design approach to a separate installation at home. Before installation, I used PVGIS to explore the solar resource and carried out calculations to guide the setup.
 
 | Component | My home installation |
@@ -87,7 +90,6 @@ My sincere thanks to **Professor Janaka Ekanayake** for the engaging EE256 assig
 | [docs/CALCULATION_NOTES.md](docs/CALCULATION_NOTES.md) | Source locations, assumptions, and review points |
 | [assets/](assets/) | Selected figures reproduced from the report |
 | [data/](data/) | Monthly energy data transcribed from report Table 5 |
-| [UPLOAD_GUIDE.md](UPLOAD_GUIDE.md) | GitHub upload steps and optional images to add |
 
 ## Sources and reuse
 
